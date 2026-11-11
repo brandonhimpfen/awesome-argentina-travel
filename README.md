@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Argentina, covering official portals, transport, region guides, and digital nomad hubs.
 
+Argentina is a vast South American destination stretching from the sub-tropical northern wetlands and wine-producing Mendoza highlands to the dramatic glacial landscapes of Patagonia and Tierra del Fuego. This list is intended for independent travelers, outdoor adventurers, alpine hikers, and wine-tour enthusiasts.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
